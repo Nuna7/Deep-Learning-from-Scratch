@@ -17,6 +17,10 @@ This repository contains implementations of various deep learning models and alg
 - Vision Transformer
 - Transformer
 - SimCLR (Contrastive Learning)
-
+- YOLO (including non-max suppression)
+- VQ-VAE 2
+- MobileNet
+- EfficientNet
+- CLIP
 
 #### Any corrections or suggestions are encouraged.
